@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berker</h1>
-<h3 align="center">Developer in Test From Turkey</h3>
+<h1 align="left">Hi 👋, I'm Berker</h1>
+<h3 align="left">Developer in Test From Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkeroguz&label=Profile%20views&color=0e75b6&style=flat" alt="berkeroguz" /> </p>
 
