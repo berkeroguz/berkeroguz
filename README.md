@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkeroguz&label=Profile%20views&color=0e75b6&style=flat" alt="berkeroguz" /> </p>
 
 - 🌱 I’m currently learning **TestNG,Junit,Cucumber BDD**
-
-- 📫 How to reach me **Discord : Berker#0505**
+- 👀 I’m interested in Back-end and Software QA Test
+- 🌱 I’m currently learning Java,Selenium and other automation tools
+- 📫 How to reach me discord : Berker #0505
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
