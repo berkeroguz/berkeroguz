@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @berkeroguz
-- 👀 I’m interested in Back-end and Software QA Test
-- 🌱 I’m currently learning Java,Selenium and other automation tools
-- 📫 How to reach me discord : Berker #0505
